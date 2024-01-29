@@ -1,7 +1,5 @@
 Diese Knowledgebase ist in mehere Kapitel aufgeteil:
 
-
-
 ### Kapitel 1: Problemstellungen bei Museumsbahnen
 
 Dient dazu häufig auftretende Problemstellungen strukturiert niederzuschreiben. Das ermöglicht es interessierten Personen an Lösungen für diese Probleme zu arbeiten. Für Informatiker: Dieser Abschnitt ist Analog zu den (Software) Requirements.
