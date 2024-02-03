@@ -1,1 +1,19 @@
-site_name: Chaosbahn
+site_name: "Chaosbahn - nerds meet museumsbahn"
+site_url: https://chaosbahn.eu/
+site_description: "Wir vernetzen Museumsbahnen und Nerds! Unser Ziel ist die Vereinfachung von Prozessen und Wissensaustausch unter Museumsbahnen."
+repo_url: "https://github.com/museumsbahn-it-community/museumsbahn-knowledgebase"
+edit_uri: "blob/main/docs/"
+
+plugins:
+  - search
+  - include_dir_to_nav
+
+nav:
+  - Einführung: "00 Einführung/Einführung"
+  - Problemstellungen: "01 Problemstellungen bei Museumsbahnen"
+  - "Rezepte für Vereins IT": "02 Rezepte für Vereins IT"
+  - "Softwarelösungen": "03 Softwarelösungen der Museumsbahn IT-Community"
+  - "Decision Log": "04 Entscheidungsdokumentation (Decision Log)"
+  - "Notizen": "99 Notizen"
+  - "Impressum": "impressum.md"
+
