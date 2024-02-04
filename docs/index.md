@@ -58,7 +58,7 @@ Das gemeinsame Ziel: Museumsbahnen organisatorisch stärken und so sicherstellen
 ## Wie kann ich mitmachen? 
 
 **Schau einfach auf unserem Discord Server vorbei!**
-Dort können wir dann besprechen, wie du dich einbringen kannst oder wie wir euch bei eurem Anliegen helfen können.
+Dort können wir dann besprechen, wie du dich am besten einbringen kannst.
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐  
 👉👉👉 https://discord.gg/ADJFadsEHB 👈👈👈  
