@@ -3,5 +3,5 @@ Tobias Watzl
 
 twatzl-blog@gmx.at
 
-[Kontakt via Github](https://github.com/museumsbahn-it-community/museumsbahn-knowledgebase)
+[Kontakt via Github](https://github.com/museumsbahn-it-community/museumsbahn-knowledgebase)  
 [Kontakt via Discord](https://discord.gg/ADJFadsEHB )
