@@ -80,7 +80,7 @@ Fahrgäste aller Altersklassen, meistens nicht "digital native". Benutzt PC (ger
 
 Stakeholder: Fahrkartenverkauf, Kassier, Steuerberater
 
-### technische Anforderungen
+### Technische Anforderungen
 
 ## Anwendungsfälle
 
