@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2024-03-21T16:20:06.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="aKoW1-px-n1NEH_nOFls" version="24.0.7" type="device">
+  <diagram name="Seite-1" id="zHIWBEq-faJmEMRMPTDd">
+    <mxGraphModel dx="1764" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="320zScQC1uxV8JyTuRKR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-1" target="320zScQC1uxV8JyTuRKR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-1" target="320zScQC1uxV8JyTuRKR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-1" target="320zScQC1uxV8JyTuRKR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-1" target="320zScQC1uxV8JyTuRKR-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-1" target="320zScQC1uxV8JyTuRKR-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-1" value="Zugplaner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-2" target="320zScQC1uxV8JyTuRKR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-2" target="320zScQC1uxV8JyTuRKR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-2" target="320zScQC1uxV8JyTuRKR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-2" value="&lt;div&gt;Fahplan und Zug anlegen&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-3" target="320zScQC1uxV8JyTuRKR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-3" target="320zScQC1uxV8JyTuRKR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-3" target="320zScQC1uxV8JyTuRKR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-3" target="320zScQC1uxV8JyTuRKR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-3" target="320zScQC1uxV8JyTuRKR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-3" value="Fahrzeugpool pflegen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="543" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-4" value="Zugzusammenstellung aus Datenbank anlegen und Fahrplan zuweisen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-5" value="Zug anpassen (Abweichung von Datenbank)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-6" value="Fahrkartentypen anlegen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="750" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-7" value="Plätze zu Fahrkartentypen zuweisen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-8" value="Zusatzprodukte anlegen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="850" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-9" value="Neues Fahrzeug erstellen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="413" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-10" value="Fahrzeug von anderem EVU ausleihen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="503" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-11" value="Fahrzeug entfernen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-12" value="Fahrzeug zu anderem EVU ausleihen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="590" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-13" value="Zusatzprodukte zuweisen (Wagen, Zug, Uhrzeit)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="320zScQC1uxV8JyTuRKR-1" target="320zScQC1uxV8JyTuRKR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-27" value="Event anlegen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="960" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="320zScQC1uxV8JyTuRKR-29" value="Storfierungsfristen setzen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1070" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
