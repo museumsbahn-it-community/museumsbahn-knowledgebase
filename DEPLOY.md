@@ -12,7 +12,7 @@ pip install mkdocs-include-dir-to-nav
 ## Deploy
 
 ```
-mkdocs gh-pages
+mkdocs gh-deploy
 ```
 
 
