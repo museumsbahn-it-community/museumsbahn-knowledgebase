@@ -91,7 +91,7 @@ Usability ist sehr wichtig, da die Kunden einfach und schnell eine Fahrkarte kau
 
 Stakeholder: Fahrkartenverkauf, Kassier, Steuerberater. Meistens auch keine "digital natives". Prinzipiell ist jeder manuelle Schritt zuviel, eigentlich wollen wir uns nicht mit Software beschäftigen. 
 
-### technische Anforderungen
+### Technische Anforderungen
 
 ## Anwendungsfälle
 
