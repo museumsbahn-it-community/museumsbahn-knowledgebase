@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-03-21T16:20:11.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="eKYJB2jz7OUA8F4nUHCL" version="24.0.7" type="device">
+  <diagram name="Seite-1" id="2PgDOUDFxBphw49bBUia">
+    <mxGraphModel dx="1930" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0nArpTBlYgBx_yMhGI9-1" target="w0nArpTBlYgBx_yMhGI9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0nArpTBlYgBx_yMhGI9-1" target="w0nArpTBlYgBx_yMhGI9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0nArpTBlYgBx_yMhGI9-1" target="w0nArpTBlYgBx_yMhGI9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-1" value="Buchhaltung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-3" value="Umsätze für Steuer ausleiten (DATEV, ...)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="70" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-4" value="Rechnungserstellung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="164" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-5" value="Statistiken ausleiten" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0nArpTBlYgBx_yMhGI9-6" target="w0nArpTBlYgBx_yMhGI9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0nArpTBlYgBx_yMhGI9-6" target="w0nArpTBlYgBx_yMhGI9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-6" value="Datenschutzbeauftragter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-7" value="Gespeicherte Daten für Fahrgast ausleiten" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="490" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-8" value="Daten für Fahrgast löschen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="584.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-9" value="Daten nach Aufbewahrungsfrist löschen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w0nArpTBlYgBx_yMhGI9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0nArpTBlYgBx_yMhGI9-6" target="w0nArpTBlYgBx_yMhGI9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
