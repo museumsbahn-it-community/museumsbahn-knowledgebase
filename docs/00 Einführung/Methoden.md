@@ -53,12 +53,15 @@ Für die Entwicklung eines Angebotes (das kann eine Webseite sein, aber auch ein
 Wenn man mit den Personas die Kundenreise mal durchgespielt hat, kann man Anforderungen und sogenannte "User Stories" ableiten. User Stories sind kurze, formale Problem-Beschreibungen von abgeschlossenen Teilproblemen. Meistens verwendet man eine feste Struktur "Als (Rolle) möchte ich (Aktion machen) um (Ziel) zu erreichen".Als Beispiel: "Als Fahrgast möchte ich eine Fahrkarte kaufen, um an der Nikolausfahrt an einem bestimmten Datum teilnehmen zu können". 
 
 Jede dieser User Stories kann nun mit Details versehen werden und die einzelnen Schritte dazu definiert werden. Bei obigem Beispiel also:
+
 1. Als Fahrgast muss ich auf der Webseite den Fahrkartenverkauf finden
 2. Als Fahrgast muss ich den Fahrkartenverkauf bedienen
 3. Als Fahrgast muss ich die Fahrkarte bezahlen
 4. Als Museumsbahn muss ich die Fahrkarte an den Fahrgast schicken
 5. ...
 
-Diesen Ablauf kann man dann weiter detaillieren und mit funktionalen und nicht-funktionalen Anforderungen erweitern. Funktionale Anforderungen wären zum Beispiel: "Der Fahrgast muss mit Paypal zahlen können", Nicht-Funktionale Anforderungen bescheiben z.B. Performance-Anforderungen: "Das Versenden der Fahrkarte als PDF darf maximal zwei Tage nach Zahlungseingang dauern", oder auch "80% der Benutzer müssen den Fahrkartenverkauf innerhalb von 5 Sekunden finden" (das kann man tatsächlich auch online messen, aber hier empfiehlt es sich, einfach eine Test-Sitzung mit einigen Vereinsmitgliedern zu machen und sie bei der Benutzung zu beobachten).
+Hier sollte man nicht nur den "Gutfall" betrachten, sondern auch fehlerhafte Abläufe, im obigen Beispiel zum Beispiel: Zahlung schlägt fehl oder Fahrgast verschlampt Fahrkarte und bittet um eine Ersatzkarte.
+
+Den Ablauf kann man dann noch weiter detaillieren und mit funktionalen und nicht-funktionalen Anforderungen erweitern. Funktionale Anforderungen wären zum Beispiel: "Der Fahrgast muss mit Paypal zahlen können", Nicht-Funktionale Anforderungen bescheiben z.B. Performance-Anforderungen: "Das Versenden der Fahrkarte als PDF darf maximal zwei Tage nach Zahlungseingang dauern", oder auch "80% der Benutzer müssen den Fahrkartenverkauf innerhalb von 5 Sekunden finden" (das kann man tatsächlich auch online messen, aber hier empfiehlt es sich, einfach eine Test-Sitzung mit einigen Vereinsmitgliedern zu machen und sie bei der Benutzung zu beobachten).
 
 Mit der Liste der User Stories und der Anforderungen kann man nun entweder das eigene Projekt (Webseite, Software, aber auch touristische Angebote etc.) entwickeln, oder auch existierende Lösungen auf Tauglichkeit testen - erfüllt diese SW, diese Dienstleistung mein Bedürfnis. Anforderungsmanagement in Softwareprojekten ist hier noch nicht zuende, aber für die Zwecke einer Museumsbahn muss man es ja auch nicht übertreiben. 
