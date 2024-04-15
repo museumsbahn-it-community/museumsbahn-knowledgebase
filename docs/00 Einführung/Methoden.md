@@ -50,7 +50,7 @@ Für die Entwicklung eines Angebotes (das kann eine Webseite sein, aber auch ein
 
 ## User Stories
 
-Wenn man mit den Personas die Kundenreise mal durchgespielt hat, kann man Anforderungen und sogenannte "User Stories" ableiten. User Stories sind kurze, formale Problem-Beschreibungen von abgeschlossenen Teilproblemen. Meistens verwendet man eine feste Struktur "Als <Rolle> möchte ich <Aktion machen> um <Ziel> zu erreichen".Als Beispiel: "Als Fahrgast möchte ich eine Fahrkarte kaufen, um an der Nikolausfahrt an einem bestimmten Datum teilnehmen zu können". 
+Wenn man mit den Personas die Kundenreise mal durchgespielt hat, kann man Anforderungen und sogenannte "User Stories" ableiten. User Stories sind kurze, formale Problem-Beschreibungen von abgeschlossenen Teilproblemen. Meistens verwendet man eine feste Struktur "Als (Rolle) möchte ich (Aktion machen) um (Ziel) zu erreichen".Als Beispiel: "Als Fahrgast möchte ich eine Fahrkarte kaufen, um an der Nikolausfahrt an einem bestimmten Datum teilnehmen zu können". 
 
 Jede dieser User Stories kann nun mit Details versehen werden und die einzelnen Schritte dazu definiert werden. Bei obigem Beispiel also:
 1. Als Fahrgast muss ich auf der Webseite den Fahrkartenverkauf finden
