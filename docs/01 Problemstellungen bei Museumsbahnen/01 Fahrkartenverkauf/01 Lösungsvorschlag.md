@@ -1,17 +1,19 @@
-# Lösungsvorschlag - Fahrkartenverkauf
+# Lösungsvorschlag - OpenTrainTicketing
 
-Einzel-Events ohne besondere Eisenbahnanforderungen können durch normale Event-Systeme wie pretix oder ähnliches abgweickelt werden. Für den Online-Fahrkartenverkauf für mehr als Event-Verkehr gibt es derzeit nur eine wirklich angepasste Lösung.
+## Kurzbeschreibung
 
-## Fahrkartendrucker.de
+Das OpenTrainTicketing-System ist eine Open-Source-Software, die es kleinen und mittleren Eisenbahnen (und speziell Museums/Touristikbahnen) ermöglicht digitale Tickets zu vertreiben.
+Es ermöglicht den Verkauf von Fahrkarten online und offline, die Kontrolle der Fahrkarten durch Schaffner und die Auswertung der Verkaufsdaten.
+Die Software ist modular aufgebaut und kann an die individuellen Anforderungen der Museumsbahn angepasst werden.
+Dabei liegt ein besonderes Augenmerk auf der Nutzung öffentlicher Standards und Interoperabilität mit anderen Systemen.
 
-Der Fahrkartendrucker entstand gegen 2011 auf Initative des VMDT, der die Entwicklung in den ersten Jahren finanziell förderte. Hinter dem Fahrkartendrucker steht die Schienenweb GmbH, die aus zwei Personen aus der Museumsbahn-Szene besteht. Fahrkartendrucker ist ein "Software as a Service" Angebot, das sich über Anteile am Fahrkartenpreis finanziert (2.5% für VDMT Mitglieder, 3% für nicht-Mitglieder [CHECK!]). Selbsthosten ist nicht möglich.
+## Kontakt
 
-### Vorteile
-* etablierte Lösung
-* speziell für Museumsbahnen entwickelt
-* Nutzercommunity trifft sich regelmäßig auf VDMT Tagung
+Das Projekt OpenTrainTicketing wird durch einen freien zusammenschluss an EntwicklerInnen und Museumsbahnen entwickelt.
 
-### Nachteile
-* nur ein Entwickler (der das neben dem Hauptberuf macht), Anpassungen dauern
-* Frontend-Customizing schwierig
-* Standard-Einstellung des Frontends sehr altbacken, nicht barrierefrei und nicht responsive
+Repository: [https://github.com/OpenTrainTicketing](https://github.com/OpenTrainTicketing)
+Ansprechpartner: [hi(a)xtatellite.space](mailto:hi@xatellite.space)
+
+## Technischer Aufbau
+
+Ein erster Vorschlag des Technischen Aufbaus folgt in kürze hier!
