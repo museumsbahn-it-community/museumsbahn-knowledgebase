@@ -1,67 +1,29 @@
+![](./images/dsf7190.jpg)
+
 # Chaosbahn - Museumsbahnen organisatorisch vernetzen!
 
-Willkommen bei Chaosbahn. Unser Ziel ist es Museumsbahnen untereinander und mit interessierten Personen zu vernetzen.
-Hauptsächlich geht es uns darum Abläufe für organisatorische Aufgaben zu standardisieren und Wissen darüber auszutauschen, damit nicht jede Museumsbahn das Rad neu erfinden muss.
+Beim Chaos Communication Camp 2023 versammelten sich zahlreiche Zugenthusiasten rund um [https://c3toc.de](https://c3toc.de) und nahmen am Workshop „Chaos meets Museumsbahn“ teil. Ziel war es, eine Verbindung zwischen der Chaos-Community und ehrenamtlich betriebenen Museumsbahnen herzustellen, die vom gesammelten Wissen der Chaos-Community profitieren könnten. Dieses Wiki ist ein Folgeprojekt, um alle Informationen für weitere Workshops zu sammeln und einen Einstiegspunkt in die Welt der Museumsbahnen für Chaos-Interessierte zu bieten.
 
-Wer in einem Museumsbahnverein tätig ist kennt es, rund um den Bahnbetrieb gibt es viele organisatorische Aufgaben:
+Unser Ziel ist es, Museumsbahnen untereinander und mit interessierten Personen zu vernetzen, organisatorische Abläufe zu standardisieren und Wissen auszutauschen, damit nicht jede Museumsbahn das Rad neu erfinden muss. Wer in einem Museumsbahnverein tätig ist, kennt die zahlreichen organisatorischen Aufgaben wie Ticketverkauf, Veranstaltungskalender oder Verwaltung von Betriebsvorschriften.
 
-- Ticketverkauf
-- Veranstaltungskalender
-- Verwaltung von Betriebsvorschriften
-- usw.
+Wir möchten Interessierte aus den Bereichen Informatik und ähnlichen Disziplinen für das Thema Eisenbahn begeistern und koordinieren. Momentan sind wir ein loser Zusammenschluss von ein paar eisenbahninteressierten Nerds aus Deutschland und Österreich.
 
-Und wenn zusätzlich noch ein Museum betrieben wird gibt es noch weitere Aufgaben:
+Unser Projekt richtet sich an alle, die Interesse für Museumsbahnen haben. Es gibt viele verschiedene Aufgaben, bei denen jede Person mithelfen kann:
 
-- Katalogisierung von Exponaten
-- Onlinedatenbank
-- ...
-
-## Unser Ziel
-
-Viele dieser Themen sind dabei bei vielen Vereinen in ähnlicher Form zu lösen.
-
-Deshalb wollen wir hier für eine bessere Vernetzung sorgen und zusätzlich interessierte Leute in den Bereichen Informatik, Geschichte und ähnliche für das Thema Eisenbahn und die vielen Möglichkeiten begeistern und koordinieren.
-
-## Wer wir sind?
-
-Momentan sind wir ein loser Zusammenschluss von ein paar eisenbahninteressierten Nerds aus Deutschland und Österreich.
-
-## An wen richtet sich das Projekt?
-
-Das Projekt richtet sich an alle die Interesse für Museumsbahnen und Geschichte haben.
-Es gibt so viele unterschiedliche Aufgaben, dass sich für jeden etwas finden lässt.
-
-### Für Nerds
-
-Hilf uns dabei Museumsbahnen zu unterstützen. 
-
-Es gibt viele unterschiedliche Tätigkeiten, die gemacht werden können: 
-
-- Aufbau von "Rezepten" für Vereins IT (Mitgliederverwaltung, Webseite, Ticketshop, ...)
-- Konzeption und Entwicklung von Software
+- Aufbau von IT-Lösungen für Vereine (Mitgliederverwaltung, Webseite, Ticketshop)
+- Softwareentwicklung
 - Grafikdesign
-- Entwurf von Anleitungen (Wie bewerbe ich auf Social Media? Welche Förderungen kann man beantragen?)
+- Erstellung von Anleitungen (Social Media, Förderanträge)
 - und vieles mehr!
 
-Egal was du machst oder kannst, es lohnt sich auf jeden Fall mitzumachen, da die Aufgabengebiete so divers sind.
+Bist du bereits ein Vereinsmitgliede einer Museumsbahn:
+Besucht uns und erzählt uns, was euch im Alltag helfen würde.
+Unsere Plattform soll zum Austausch und zur gegenseitigen Unterstützung genutzt werden, um organisatorische Herausforderungen zu meistern und den Museumsbahnbetrieb zu stärken.
 
-### Für Vereinsmitglieder von Museumsbahnen
+Wenn du mitmachen möchtest, besuche einfach unseren Discord-Server!
 
-Schaut vorbei und erzählt uns was euch den Alltag erleichtern würde.  
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
-Wo liegen eure Herausforderungen? Ticketverkauf? Werbung? Organisation von Veranstaltungen?  
+👉👉👉 [https://discord.gg/ADJFadsEHB](https://discord.gg/ADJFadsEHB) 👈👈👈
 
-Unsere Plattform soll auch zum Austausch untereinander genutzt werden um sich gegenseitig Tipps zu geben was funktioniert und was nicht.
-
-Das gemeinsame Ziel: Museumsbahnen organisatorisch stärken und so sicherstellen, dass auch weiterhin gefahren wird!
-
-## Wie kann ich mitmachen? 
-
-**Schau einfach auf unserem Discord Server vorbei!**
-Dort können wir dann besprechen, wie du dich am besten einbringen kannst.
-
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐  
-👉👉👉 https://discord.gg/ADJFadsEHB 👈👈👈  
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐  
-
-
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
