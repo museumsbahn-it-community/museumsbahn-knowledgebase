@@ -1,0 +1,9 @@
+.md-typeset h1 {
+  color: var(--md-primary-fg-color--dark);
+}
+
+img {
+  border-radius: 16px;
+  margin: 0 auto;
+  display: block;
+}
