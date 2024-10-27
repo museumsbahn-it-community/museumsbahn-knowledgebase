@@ -1,3 +1,4 @@
 *.un~
 .obsidian
 site/
+.env
